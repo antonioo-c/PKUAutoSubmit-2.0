@@ -18,6 +18,6 @@ jobs:
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
           reason: ${{ secrets.reason }}
-          wechat: "False"
+          wechat: "True"
           sckey: ${{ secrets.sckey }}
           out_track: "燕园-中关新园"
